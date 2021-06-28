@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/phone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/phoneApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/phoneCall" vcs="Git" />
+  </component>
+</project>
